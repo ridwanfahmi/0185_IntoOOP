@@ -15,6 +15,11 @@ public:   //akses modifier
 
 };
 
+
+class Matakuliah {
+
+};
+
 int main() {
 	
 }
