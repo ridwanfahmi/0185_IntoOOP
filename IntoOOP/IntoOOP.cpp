@@ -23,7 +23,15 @@ private:
 	int sks;
 public:
 	void input() {
-		
+		cout << "Kode MK: ";
+		cin >> kodeMK;
+		cout << "Nama MK: ";
+		cin >> namaMK;
+		cout << "SKS: ";
+		cin >> sks;
+	}
+
+
 };
 
 int main() {
