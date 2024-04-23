@@ -31,7 +31,9 @@ public:
 		cin >> sks;
 	}
 
-
+	void output() {
+		
+	}
 };
 
 int main() {
